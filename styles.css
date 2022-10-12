@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  margin: 0.5em auto;
+  font-size: 3em;
+}
+
+label {
+  display: block;
+}
+
+input {
+  margin: 3px;
+  padding: 0.25em;
+}
+
+.inline {
+  display: inline;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 50%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  min-width: 300px;
+}
+
+textarea {
+  display: block;
+  padding: 5px;
+  margin: 0.5em auto;
+  width: 90%;
+}
